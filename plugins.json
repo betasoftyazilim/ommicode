@@ -1,0 +1,89 @@
+{
+  "version": "1.0",
+  "plugins": [
+    {
+      "id": "aider",
+      "name": "Aider",
+      "description": "aider plugin",
+      "repository": "https://github.com/paul-gauthier/aider.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ast-grep",
+      "name": "Ast-grep",
+      "description": "ast-grep plugin",
+      "repository": "https://github.com/ast-grep/ast-grep.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "browser-use",
+      "name": "Browser-use",
+      "description": "browser-use plugin",
+      "repository": "https://github.com/browser-use/browser-use.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "cline",
+      "name": "Cline",
+      "description": "cline plugin",
+      "repository": "https://github.com/cline/cline.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "draw-a-ui",
+      "name": "Draw-a-ui",
+      "description": "draw-a-ui plugin",
+      "repository": "https://github.com/sawyerhood/draw-a-ui.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "e2b",
+      "name": "E2b",
+      "description": "e2b plugin",
+      "repository": "https://github.com/e2b-dev/E2B.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "firecrawl",
+      "name": "Firecrawl",
+      "description": "firecrawl plugin",
+      "repository": "https://github.com/mendableai/firecrawl.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "mcp-servers",
+      "name": "Mcp-servers",
+      "description": "mcp-servers plugin",
+      "repository": "https://github.com/modelcontextprotocol/servers.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "openhands",
+      "name": "Openhands",
+      "description": "openhands plugin",
+      "repository": "https://github.com/All-Hands-AI/OpenHands.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "screenshot-to-code",
+      "name": "Screenshot-to-code",
+      "description": "screenshot-to-code plugin",
+      "repository": "https://github.com/abi/screenshot-to-code.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "swe-agent",
+      "name": "Swe-agent",
+      "description": "swe-agent plugin",
+      "repository": "https://github.com/princeton-nlp/SWE-agent.git",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tldraw",
+      "name": "Tldraw",
+      "description": "tldraw plugin",
+      "repository": "https://github.com/tldraw/tldraw.git",
+      "version": "1.0.0"
+    }
+  ]
+}
